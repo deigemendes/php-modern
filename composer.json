@@ -1,0 +1,21 @@
+{
+    "name": "deige.mendes/php-modern",
+    "description": "Teste livro php moderno",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "DeigeMendes\\PhpModern\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "deige mendes"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "9.5.26"
+    }
+}
